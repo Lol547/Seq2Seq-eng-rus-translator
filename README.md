@@ -166,16 +166,18 @@ seq2seq-translator/
 
 ---
 
-## Веса модели
+## 📦 Веса модели
 
-Для работы необходимы следующие файлы:
-1. **`best_model.pt`** — веса модели.
+Для работы необходимы **три файла**:
+1. **`best_model.pt`** — веса обученной модели.
 2. **`english_tokenizer.pkl`** — токенизатор для английского языка.
 3. **`russian_tokenizer.pkl`** — токенизатор для русского языка.
-4. **`model_config.pkl`** — конфигурация модели.
 
 **Ссылки для скачивания:**
-[Все веса, конфиг и токенизаторы](https://drive.google.com/drive/folders/1mUNV3TJInDP81TP8cAu-KKGuwbWlzymx?usp=sharing)
+[Все веса и токенизаторы](https://drive.google.com/drive/folders/1mUNV3TJInDP81TP8cAu-KKGuwbWlzymx?usp=sharing)
+
+> **Примечание:** Файл `model_config.pkl` не требуется — все необходимые параметры модели определяются автоматически из загруженных токенизаторов.
+
 
 ---
 
