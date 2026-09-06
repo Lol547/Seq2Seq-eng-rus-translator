@@ -77,8 +77,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/seq2seq-translator.git
-cd seq2seq-translator
+git clone https://github.com/Lol547/Seq2Seq-eng-rus-translator.git
+cd Seq2Seq-eng-rus-translator
 ```
 
 2. Установите зависимости:
@@ -175,7 +175,7 @@ seq2seq-translator/
 4. **`model_config.pkl`** — конфигурация модели.
 
 **Ссылки для скачивания:**
-[Все веса, конфиг и токенизаторы]()
+[Все веса, конфиг и токенизаторы](https://drive.google.com/drive/folders/1mUNV3TJInDP81TP8cAu-KKGuwbWlzymx?usp=sharing)
 
 ---
 
